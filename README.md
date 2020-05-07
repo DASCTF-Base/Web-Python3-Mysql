@@ -1,4 +1,4 @@
-# DASCTF 征题 Docker 模板-Python3 + MYSQL
+# DASCTF 征题 Docker 模板-Python3 + MYSQL5.7
 ## 内含组件
 - Python3
 - MYSQL5.7
