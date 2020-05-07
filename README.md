@@ -1,7 +1,7 @@
 # DASCTF 征题 Docker 模板-Python3 + MYSQL
 ## 内含组件
 - Python3
-- MYSQL
+- MYSQL5.7
 
 ## 使用方法
 1. 请在 https://github.com/DASCTF-Test/Web-Python3-Mysql-Test  基础上修改即可。
